@@ -3,7 +3,7 @@ coverage==5.0.3
 Django==3.0.4
 django-cors-headers==3.2.1
 django-templated-mail==1.1.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 djoser==2.0.3
 factory-boy==2.12.0
 Faker==4.0.2
